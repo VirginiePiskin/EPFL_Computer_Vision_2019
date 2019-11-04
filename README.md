@@ -1,11 +1,11 @@
 # EPFL_Computer_Vision_2019
-EPFL Autumn Semester 2019 - Computer Vision Course
+EPFL Spring Semester 2019 - Computer Vision Course
 
 - https://edu.epfl.ch/coursebook/en/computer-vision-CS-442
 
 This repository contains the assignments on which I worked during the semester.
 Blank notebooks were given to us to be filled every two weeks. The code in these
-notebooks were written by myself using the class material (lectures).
+notebooks was written by myself using the class material (lectures).
 I also used the exercise solutions to verify and complete my implementation
 whenever needed. The exam notebook here was filled in real exam conditions:
 2 hours without the help of the Internet.
